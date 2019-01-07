@@ -17,3 +17,6 @@ Little project I attempted where every day, for 5 days, I would write a complete
 | `Day004.html` | Web page displaying a button so that a random color can be generated | [here](../master/5DaysOfCode/Websites/Day004.html) |
 | `Day005.js`   | Changing the background color continuously on page load | [here](../master/5DaysOfCode/Websites/Day005.js)   |
 | `Day005.html` | Web page showing different background colors        | [here](../master/5DaysOfCode/Websites/Day005.html) |
+| `index.css`   | CSS for the index page of my "*website*"            | [here](../master/5DaysOfCode/Index/index.css)      |
+| `index.html`  | Web page displaying all links to the 5 Days of Coding | [here](/master/5DaysOfCode/Index/index.html)  |
+| `website.css` | CSS for `Day005.html`                           | [here](../master/5DaysOfCode/Websites/websites.css)|
