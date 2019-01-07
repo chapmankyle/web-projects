@@ -1,0 +1,35 @@
+<!-- [15 March 2018] -->
+<!-- Day 2: Making a website that can display the random number guesser -->
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <title>Day 2 | 5 Days of Code</title>
+  <script src="Day002.js" type="text/javascript"></script>
+</head>
+<body>
+  <!-- What I learnt today -->
+  <fieldset>
+    <legend>Inputs</legend>
+    <label for="guess">Your Guess:</label>
+    <input type="text" id="guess" value="" />
+    <input type="button" id="check" onclick="checkGuess()" value="Check" /><br /><br />
+    <input type="button" id="showGuesses" onclick="showGuesses()" value="Show My Guesses" />
+    <input type="button" id="newGame" onclick="generateRandNum()" value="New Game" /> <br /><br />
+    <input type="checkbox" id="cheat" onclick="showNum()" value="Cheat" />
+    <label for="cheat">Cheat</label>
+    <br />
+    <div id="showCheat" style="display: none;">
+      <label for="numToGuess">Generated Number:</label>
+      <input type="text" id="numToGuess" />
+    </div>
+  </fieldset>
+  <br />
+  <fieldset id="guesses" class="guesses">
+    <legend>Output</legend>
+    <textarea id="output" name="output" rows="5" style="width: 100%;" onchange="autoSize(this);"></textarea>
+  </fieldset>
+
+</body>
+</html>

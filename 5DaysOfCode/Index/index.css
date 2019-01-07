@@ -1,0 +1,60 @@
+body {
+  background-color: white;
+}
+
+header {
+  text-align: right;
+  font-family: verdana;
+}
+
+h1 {
+  color: #ff751a;
+  text-align: left;
+  font-family: verdana;
+  font-size: 35px;
+  padding-top: 0px;
+}
+
+p.desc {
+  font-family: verdana;
+  font-size: 16px;
+}
+
+div {
+  font-family: verdana;
+  font-size: 14px;
+}
+
+div.container {
+  border-top: 1px solid #999999;
+  padding-top: 10px;
+}
+
+span {
+  font-family: verdana;
+  font-size: 14px;
+}
+
+nav {
+  border-bottom: 1px solid #999999;
+  padding-bottom: 8px;
+}
+
+a.heading {
+  padding: 4px;
+}
+
+a.heading:link {
+  color: #666666;
+  text-decoration: none;
+}
+
+a.heading:visited, a.heading:active {
+  color: #262626;
+  text-decoration: none;
+}
+
+a.heading:hover {
+  background-color: #f2f2f2;
+  text-decoration: none;
+}
