@@ -20,3 +20,13 @@ Little project I attempted where every day, for 5 days, I would write a complete
 | `index.css`   | CSS for the index page of my "*website*"            | [here](../master/5DaysOfCode/Index/index.css)      |
 | `index.html`  | Web page displaying all links to the 5 Days of Coding | [here](../master/5DaysOfCode/Index/index.html)  |
 | `website.css` | CSS for `Day005.html`                           | [here](../master/5DaysOfCode/Websites/websites.css)|
+
+---
+### *rock-paper-scissors*
+Classic Rock-Paper-Scissors game that can be played in any web-browser.
+
+| Files         | Explanantion                                        | Link                                               |
+| ------------- | :-------------------------------------------------- | -------------------------------------------------: |
+| `index.html`  | Page in which the Rock-Paper-Scissors game is played | [here](../master/rock-paper-scissors/index.html)  |
+| `styles.css`  | All the CSS styling is kept in this seperate file   | [here](../master/rock-paper-scissors/styles.css)   |
+| `app.js`      | Where the JavaScript for playing the game is kept   | [here](../master/rock-paper-scissors/app.js)       |
