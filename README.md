@@ -1,4 +1,6 @@
 # Web Projects
+[![License](https://img.shields.io/github/license/chapmankyle/web-projects.svg?color=blue&style=for-the-badge)](https://github.com/chapmankyle/web-projects/blob/master/LICENSE)
+
 Repo for all HTML, CSS and JavaScript projects
 
 ## Current files include:
